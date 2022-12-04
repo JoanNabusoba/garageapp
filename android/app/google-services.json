@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658743731468",
+    "project_id": "flutterfirebase-1313b",
+    "storage_bucket": "flutterfirebase-1313b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658743731468:android:5eff1c0b8ed6f46ea49529",
+        "android_client_info": {
+          "package_name": "com.example.garage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658743731468-g8rs83sdfpiq26vi1e6h8thaoq0ic4dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQYMZTXd0BXMrD0UoQZ2A8OK7SPqR2yiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658743731468-g8rs83sdfpiq26vi1e6h8thaoq0ic4dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
